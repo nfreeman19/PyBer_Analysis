@@ -20,4 +20,8 @@ The belwo graph shows the weekly fares by city. As you can see just like the abo
 
 ## Summary:
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+**My recommendations to the CEO would be:
+
+- Keep a good amount of drivers in the urban area because that is wher we are seeing the most need for drivers based on the data and amount of people.
+- I would also suggest to make an even amount of earnigs for your drivers to switch up where they are driving. Have your dirvers go to Urban areas some days and the others send them out to the Rural areas.
+- Since you have less revenue in the rural and surburban areas consider raising your prices a little higher to compete with your amount of urban trips.
