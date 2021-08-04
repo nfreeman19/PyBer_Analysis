@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-The purpose of the new analysis is to see how data differs by city type. Taking the rural, suburban and urban areas and analyze them to see where the total rides, total dirvers, average fares per ride and driver and total fare in the particular city.
+The purpose of the new analysis is to see how data differs by city type. Taking the rural, suburban and urban areas and analyze them to see where the total rides, total dirvers, average fares per ride and driver and total fare in the particular city. We need to summary DataFrame of the ride-sharing data to the best of our ability using matplotlib to show a good visual.
 
 ## Results:
 
