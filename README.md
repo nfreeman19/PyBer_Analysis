@@ -7,9 +7,16 @@ The purpose of the new analysis is to see how data differs by city type. Taking 
 ## Results:
 
 See the dataset below:
+
+![myTest](https://github.com/nfreeman19/PyBer_Analysis/blob/main/Analysis/Total%20Number%20of%20Rides%20Summary.png)
+
+As you can see in the picture of the dataset above most of the rides and drivers are located in the urban areas. This would probably be because the amount of people on an urban area. The larger fares are in the rural areas. That would most likely be that way most likely because the distance to other things in a rural area are prbably farther apart making the trip longer therefore the trips would be more expensive.
+
+The belwo graph shows the weekly fares by city. As you can see just like the above data set the urban area shows that is mostly likely where you're going to make all the revenue.
+
 ![myTest](https://github.com/nfreeman19/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+
 
 ## Summary:
 
